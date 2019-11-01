@@ -1,0 +1,2 @@
+USAGE: ./ssh_pass.sh <ssh_command> <ssh_password>
+e.g.: ./ssh_pass.sh 'ssh -t ache@192.168.56.1 -p 11624 help' 'ache'
